@@ -1,3 +1,8 @@
+/*
+ * Print a line from every process in rank order:
+ * process 0 output first, then process 1 and so on.
+ */
+
 #include <stdio.h>
 #include <mpi.h>
 
